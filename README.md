@@ -22,12 +22,12 @@ Below are tools and languages required to publish a repo with GitHub pages :
 #### Languages :
 
 Markdown
+
 HTML
+
 CSS
+
 JavaScript
-
-
-
 
 
 P1 published site NWSU
