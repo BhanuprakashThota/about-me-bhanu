@@ -38,8 +38,9 @@ Below are tools and languages required to publish a repo with GitHub pages :
 - Bhanuprakash Thota
 - Masters in Applied Computer Science at Northwest Missouri State University
 
-![Image](https://rukminim1.flixcart.com/image/352/352/j110uq80/poster/c/v/9/large-poster-pp-p0070-original-lord-shiva-poster-original-imaesmyedgzduymz.jpeg?q=70)
+![Image](https://images-na.ssl-images-amazon.com/images/I/812xk7IVOuL._RI_.jpg)
 
+Image copied from [The 100](https://www.google.com/search?q=the+100&rlz=1C1GCEA_enUS885US885&sxsrf=ACYBGNTcLivAVjZkQqg948Ts18sc1K2gfg:1580453280257&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjh9-min63nAhVLUK0KHTu4DMMQ_AUoAnoECBUQBA&biw=1366&bih=625)
 
 P1 published site NWSU
 
