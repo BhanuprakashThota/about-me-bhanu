@@ -10,7 +10,7 @@ This repository is an assignment given by professor, to make us comfortable in u
 
 Below are tools and languages required to publish a repo with GitHub pages : 
 
-#### Tools :
+#### Tools 
 
 1. [GitHub Account](https://github.com/BhanuprakashThota) 
      - It will help you to create the repository.
@@ -19,12 +19,26 @@ Below are tools and languages required to publish a repo with GitHub pages :
 3. Tortoise Git
 4. Git Bash
 
-#### Languages :
+#### Languages
 
 * Markdown
 * HTML
 * CSS
 * JavaScript
 
+## Recommended Resources
+
+- [HTML](https://github.com/h5bp/html5-boilerplate)
+- [CSS](https://github.com/daneden/animate.css)
+- [JavaScript](https://github.com/airbnb/javascript)
+- [Angular Js](https://github.com/angular/angular.js)
+
+## Contributors 
+
+- Bhanuprakash Thota
+- Masters in Applied Computer Science at NOrthwest Missouri State University
+
+![Image](https://rukminim1.flixcart.com/image/352/352/j110uq80/poster/c/v/9/large-poster-pp-p0070-original-lord-shiva-poster-original-imaesmyedgzduymz.jpeg?q=70)
 
 P1 published site NWSU
+
