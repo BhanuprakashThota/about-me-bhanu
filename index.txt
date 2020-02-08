@@ -5,6 +5,6 @@ I am from Warangal, India. I did my undergrad(Computer Science and Engineering )
 
 
 I would like to see myself working as a CRM Developer for Product companies like Salesforce or Oracle. Besides this, I love playing badminton and video games.
-My Linkedin profile states a lot more about my work and interests, feel free to check: 
+My Linkedin profile states a lot more about my work and interests, feel free to check::
 
 https://www.linkedin.com/in/bhanuprakashthota/
