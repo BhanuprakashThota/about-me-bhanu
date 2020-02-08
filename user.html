@@ -12,7 +12,7 @@
 
 <body>
     <header>
-        <h1 style="text-align:center">Bhanu- the 100</h1><br>       
+        <h1 style="text-align:center">Bhanu-About Me</h1><br>
     </header>
     <nav>
         <img src="images/Bhanu.jpg" alt="profile picture" id="my_picture">
@@ -22,23 +22,29 @@
             <li><a href="user.html" rel="noopener">User Interaction</a></li>
         </ul>
     </nav>
+    <script>
+        function convertmeters() {
+            if (document.getElementById("c").value != " ") {
+                var f = document.getElementById("c").value * 1.6 * 1000;
+                document.getElementById("d").value = Math.round(f);
+            } else {
+                document.getElementById("d").value = "please enter the miles in above textbox";
+            }
+        }
+    </script>
     <main class="container-fluid">
-                <h2 style="text-align:center" id="contact_heading">Contact Me</h2>
-                <form style="text-align:center" class="col-md-6" >
-                    <label>First name: </label><br><input type="text" name="FirstName" placeholder="First Name.."><br><br>
-                    <label>Last name: </label><br><input type="text" name="LastName" placeholder="Last Name.."><br><br>
-                    <label>Male: </label><input type="radio" name="gender">
-                    <label>Female: </label><input type="radio" name="gender">
-                    <label>Other: </label><input type="radio" name="gender"><br><br>
-                    <label>MobileNumber: </label><br><input type="number" name="MobileNumber" placeholder="Mobile Num.."><br><br>
-                    <label>Email: </label><br><input type="email" name="Email" placeholder="Email.."><br><br>
-                    <label>Comments : </label><br><textarea placeholder="Comments.."></textarea><br><br>
-                    <input type="submit" value="Submit"><br><br>
-                </form>
+        <h2 style="text-align:center" id="contact_heading">Miles to Meter Converter</h2>
+        <form style="text-align:center">
+            <h2>Convert miles to Meters</h2>
+            <h3>Enter Miles :</h3> <input id="c" type="text"></br></br>
+            <button type="button" id="convert" onclick="convertmeters()">Convert</button></br>
+            <h3>Meters :</h3><input type="text" id="d" readonly="true">
+            
+        </form>
     </main>
     <footer>
-        <p class = "footer">
-         &copy Page belongs to Bhanu ; @contact - +16605415295
+        <p class="footer">
+            &copy Page belongs to Bhanu ; @contact - +16605415295
         </p>
     </footer>
 </body>
